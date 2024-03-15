@@ -1,0 +1,12 @@
+{
+  "name": "typed-surge",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.2",
+    "typescript": "^5.3.3"
+  }
+}
